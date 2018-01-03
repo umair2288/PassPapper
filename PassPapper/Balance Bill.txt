@@ -1,0 +1,6 @@
+Bank's Name: Hatton National Bank
+Date and Time: 2018-01-03T19:22:04.402
+Account Number: 123456789***
+Current Account Balance:0.0
+Latest Transfer Type: Cash Transfer
+Latest Transfer Amount: 50000.0
